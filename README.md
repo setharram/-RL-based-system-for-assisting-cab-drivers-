@@ -24,3 +24,8 @@ current point i to pick-up p)
 *                 {                      −C f                 a = (0,0) }
 Where Xi represents a driver’s current location, Tj represents time component, Dk represents the day of the week, p represents the pickup and q
 represents the drop location.
+
+
+# Reference:-
+* ‘Deep Reinforcement Learning for List-wise Recommendations’ by Xiangyu Zhao, Liang Zhang, Zhuoye Ding
+* https://arxiv.org/abs/1801.00209
